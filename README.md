@@ -1,12 +1,10 @@
-# HeoMusic
+# Funny Add
 
 ![](/img/cover.webp)
 
 一个基于[Aplayer](https://github.com/DIYgod/APlayer)和[MetingJS](https://github.com/metowolf/MetingJS)的静态音乐播放器
 
 ## 预览
-
-[HeoMusic - 用音乐感染人心](https://music.zhheo.com/)
 
 ## 基本操作
 
