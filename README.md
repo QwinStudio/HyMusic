@@ -1,4 +1,4 @@
-# Funny Add
+# Funny Add By HeoMusic
 
 ![](/img/cover.webp)
 
